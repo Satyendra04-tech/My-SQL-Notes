@@ -10,3 +10,4 @@ Hi, I am sharing PostgreSQL notes here
 - `Select count(distinct amount) from payments` : It is used to count the number of distinct rows in amount column in payments tab
 
 
+
